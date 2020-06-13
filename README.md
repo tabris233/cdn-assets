@@ -13,5 +13,5 @@ https://cdn.jsdelivr.net/gh/tabris233/cdn-assets/图片
 例如：
 
 ```
-https://cdn.jsdelivr.net/gh/tabris233/cdn-assets/avatar/avatar.png
+https://cdn.jsdelivr.net/gh/tabris233/cdn-assets/avatar/avatar.jpg
 ```
