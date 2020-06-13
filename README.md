@@ -1,0 +1,2 @@
+# cdn-assets
+JSDelivr CDN
